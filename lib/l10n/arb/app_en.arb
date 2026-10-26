@@ -1,0 +1,28 @@
+{
+  "@@locale": "en",
+  "chooseYourLanguage": "Choose Your Language",
+  "languageSelectionSubtitle": "Select your preferred language to explore the beauty of Cambodia.",
+  "continueButton": "Continue",
+  "languageSettings": "Language",
+  "homeTab": "Home",
+  "exploreTab": "Explore",
+  "mapTab": "Map",
+  "savedTab": "Saved",
+  "profileTab": "Profile",
+  "profileTitle": "My Profile",
+  "profileDescription": "Sign in to manage your profile and trips.",
+  "khmerLanguageName": "Khmer",
+  "khmerLanguageNativeName": "ភាសាខ្មែរ",
+  "englishLanguageName": "English",
+  "englishLanguageNativeName": "English",
+  "chineseLanguageName": "Chinese",
+  "chineseLanguageNativeName": "中文",
+  "languageSelected": "{language} selected",
+  "@languageSelected": {
+    "placeholders": {
+      "language": {
+        "type": "String"
+      }
+    }
+  }
+}

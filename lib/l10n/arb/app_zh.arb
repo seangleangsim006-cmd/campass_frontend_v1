@@ -1,0 +1,28 @@
+{
+  "@@locale": "zh",
+  "chooseYourLanguage": "选择您的语言",
+  "languageSelectionSubtitle": "选择您偏好的语言，探索柬埔寨之美。",
+  "continueButton": "继续",
+  "languageSettings": "语言",
+  "homeTab": "首页",
+  "exploreTab": "探索",
+  "mapTab": "地图",
+  "savedTab": "收藏",
+  "profileTab": "个人资料",
+  "profileTitle": "个人资料",
+  "profileDescription": "登录以管理您的个人资料和旅行。",
+  "khmerLanguageName": "高棉语",
+  "khmerLanguageNativeName": "ភាសាខ្មែរ",
+  "englishLanguageName": "英语",
+  "englishLanguageNativeName": "English",
+  "chineseLanguageName": "中文",
+  "chineseLanguageNativeName": "中文",
+  "languageSelected": "已选择{language}",
+  "@languageSelected": {
+    "placeholders": {
+      "language": {
+        "type": "String"
+      }
+    }
+  }
+}

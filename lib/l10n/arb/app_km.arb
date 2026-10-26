@@ -1,0 +1,28 @@
+{
+  "@@locale": "km",
+  "chooseYourLanguage": "ជ្រើសរើសភាសារបស់អ្នក",
+  "languageSelectionSubtitle": "ជ្រើសរើសភាសាដែលអ្នកចូលចិត្ត ដើម្បីស្វែងយល់ពីសម្រស់នៃប្រទេសកម្ពុជា។",
+  "continueButton": "បន្ត",
+  "languageSettings": "ភាសា",
+  "homeTab": "ទំព័រដើម",
+  "exploreTab": "ស្វែងយល់",
+  "mapTab": "ផែនទី",
+  "savedTab": "បានរក្សាទុក",
+  "profileTab": "ប្រវត្តិរូប",
+  "profileTitle": "ប្រវត្តិរូបរបស់អ្នក",
+  "profileDescription": "ចូលគណនីដើម្បីគ្រប់គ្រងប្រវត្តិរូប និងដំណើរកម្សាន្តរបស់អ្នក។",
+  "khmerLanguageName": "ខ្មែរ",
+  "khmerLanguageNativeName": "ភាសាខ្មែរ",
+  "englishLanguageName": "អង់គ្លេស",
+  "englishLanguageNativeName": "English",
+  "chineseLanguageName": "ចិន",
+  "chineseLanguageNativeName": "中文",
+  "languageSelected": "បានជ្រើសរើស {language}",
+  "@languageSelected": {
+    "placeholders": {
+      "language": {
+        "type": "String"
+      }
+    }
+  }
+}
